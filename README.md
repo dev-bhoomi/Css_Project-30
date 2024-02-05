@@ -1,7 +1,7 @@
 
-#Git Logo with HTML and CSS
+#Taddy Face with HTML and CSS
 
-This project features a minimalist representation of the Git logo created using HTML and CSS. The aim was to design a simplified version of the iconic Git logo for use in web development projects.
+This project features a charming Taddy Face created using HTML and CSS. The aim was to design a whimsical and visually appealing representation of a teddy bear face for a touch of creativity..
 ## Demo
 
 Insert gif or link to demo
